@@ -22,7 +22,7 @@
 
 <ul>
 
-<li> <strong> Competitive Programming : </strong> Trying hard to reach <span style="color:#ff55ff;"> Candidate Master (1900+ rating) </span> on codeforces. </li>
+<li> <strong> Competitive Programming : </strong> Trying hard to reach <span style="color:#ff55ff;"> Candidate Master (1900+ rating) </span> on Codeforces. </li>
 
 <li> <strong> IELTS : </strong> Trying to get band 7.5 on first attempt. </li>
 
